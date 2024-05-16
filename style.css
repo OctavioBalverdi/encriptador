@@ -30,7 +30,7 @@ h1{
     
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:rgb(247, 246, 245)
+    color:rgb(8, 228, 74)
     
     
 }
@@ -69,7 +69,7 @@ section{
     background-color: rgb(245, 244, 244);
     box-shadow: 0,8px,32px,0,rgb(31, 29, 29,);
     backdrop-filter: blur(2px);
-    color: rgb(255, 255, 255);
+    color: rgb(3, 3, 3);
     font-size: 25px;
     font-weight: 700;
     
@@ -141,7 +141,7 @@ section{
     overflow: hidden;
 
 }
-video{
+.imagen{
    position:absolute;
    top:0;
    left:0;
